@@ -4,16 +4,6 @@
 Hi 👋! My name is Errol and I'm a Full Stack JavaScript Developer focused on mobile and web applications, with a multidisciplinary background in science education and software development, from Costa Rica 🇨🇷
 </h2>
 
-
-<br clear="both">
-
-
-
-###
-
-###
-###
-
 ## 🚀 Currently Working On
 <img align="right" width="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U2anE5Ym81emZhZ2dncTR1YzNlNWp0YzdsdTUxcmZwbGg1dm1kbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
 
